@@ -30,3 +30,10 @@ The goal of this tutorial is to create a User Registration and Login Module that
 
 ## Conclusion
 By following this tutorial, of a User Registration and Login Module using Spring Boot, Spring Security, Hibernate, and Thymeleaf. This module can be seamlessly incorporated into the Spring MVC-based projects.
+
+![image](https://github.com/ericmaniraguha/login_register_form/assets/44385819/ba6255a0-4ab1-4162-b36d-7fd8063461e1)
+![image](https://github.com/ericmaniraguha/login_register_form/assets/44385819/43340532-f58d-4d9d-997e-c6cb4cbdbc15)
+![image](https://github.com/ericmaniraguha/login_register_form/assets/44385819/6604729b-a780-4bf7-809f-e6725a6ef430)
+
+
+
